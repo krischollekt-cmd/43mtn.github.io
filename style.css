@@ -6,7 +6,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Gravitas+One&family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 :root{
-  --body: white;
+  --body: black;
   --text: rgb(50, 50, 50);
   --header: black;
   --bg: rgb(240, 240, 240);
