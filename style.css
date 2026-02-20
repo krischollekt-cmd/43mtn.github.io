@@ -8,7 +8,7 @@
 :root{
   --body: white;
   --text: rgb(50, 50, 50);
-  --header: black;
+  --header: gray;
   --bg: rgb(240, 240, 240);
   --bg-darker: rgb(220, 220, 220);
   --border: rgb(200, 200, 200);
