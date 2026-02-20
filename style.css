@@ -80,7 +80,7 @@ nav ul li a:hover{
 }
 
 button{
-  background: rgb(219, 207, 207);
+  background: rgb(240, 240, 240);
   border: 1px solid var(--border);
   border-radius: .5rem;
   padding: .8rem;
